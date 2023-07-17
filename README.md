@@ -11,6 +11,7 @@ Extraire le dossier compressé ou à la racine du jeu ou dans le dossier que vou
 ## Licence
 
 `SSA retex` an ArmA III modification by Heartbroken
+
 ![Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/assets/img/licenses/APL-SA.png)  
 Ce mod est publié sous la licence publique *Arma Public License Share Alike (APL-SA)* comme rédigée (en anglais) dans le fichier `LICENSE.md` fourni avec le mod et ([récupérée le 14 juillet 2023 depuis son site officiel.](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)).
 

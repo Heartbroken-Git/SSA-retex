@@ -1,4 +1,4 @@
-name = "Vehicules du Service de Sante des Armees";
+name = "(HB) Vehicules du Service de Sante des Armees";
 picture = "SSA.paa";
 actionName = "";
 action = "";
