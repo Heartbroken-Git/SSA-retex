@@ -34,5 +34,6 @@ class CfgVehicles
 		displayName = "Volkswagen Transporter T6 VSU";//Nom en jeu
 		author = "Heartbroken";//Nom de l'auteur
 		hiddenSelectionsTextures[] = {"HB_SSAretex_TransporterT6\data\T6_SSA.paa"};//Chemin d'accès de la texture (change le nom du dossier "Mon_Skin" par celui que tu veux, n'oublies pas de mettre des _ pour les espaces)
+		editorPreview = "HB_SSAretex_TransporterT6\data\previews\T6_SSA.jpg";
 	};
 };
